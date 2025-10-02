@@ -1,8 +1,6 @@
 
   # Create Presentation Slides
 
-  This is a code bundle for Create Presentation Slides. The original project is available at https://www.figma.com/design/wOWi1ALzbWJRJsiqztRQI9/Create-Presentation-Slides.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
